@@ -1,0 +1,6 @@
+微信小程序下载地址：
+https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html?t=1476197489869
+入门
+http://www.cnblogs.com/mdnx/p/6004653.html
+简单应用：
+https://github.com/oopsguy/WechatSmallApps
